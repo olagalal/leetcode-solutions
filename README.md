@@ -19,6 +19,7 @@ This repository is not just a collection of problems but also a way for me to tr
 
 | #    | Title                                                                 | Difficulty | Solutions                                                                                                     | Explanation |
 |------|-----------------------------------------------------------------------|------------|---------------------------------------------------------------------------------------------------------------|-------------|
+| 790 | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling) | Medium      | [Python](./python/790_Domino_and_Tromino_Tiling.py) | [📄](./explanations/790_Domino_and_Tromino_Tiling.md) |
 | 1128 | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs) | Easy       | [Python](./python/1128_Number_of_Equivalent_Domino_Pairs.py) | [📄](./explanations/1128_Number_of_Equivalent_Domino_Pairs.md) |
 
 ## 🔗 Links to Solution Folders
