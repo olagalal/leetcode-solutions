@@ -21,6 +21,7 @@ This repository is not just a collection of problems but also a way for me to tr
 |------|-----------------------------------------------------------------------|------------|---------------------------------------------------------------------------------------------------------------|-------------|
 | 790 | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling) | Medium      | [Python](./python/790_Domino_and_Tromino_Tiling.py) | [📄](./explanations/790_Domino_and_Tromino_Tiling.md) |
 | 1128 | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs) | Easy       | [Python](./python/1128_Number_of_Equivalent_Domino_Pairs.py) | [📄](./explanations/1128_Number_of_Equivalent_Domino_Pairs.md) |
+| 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation) | Easy       | [Python](./python/1920_Build_Array_from_Permutation.py) | [📄](./explanations/1920_Build_Array_from_Permutation.md) |
 | 3341 | [Find Minimum Time to Reach Last Room I](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i) | Medium       | [Python](./python/Find_Minimum_Time_to_Reach_Last_Room_I.py) | [📄](./explanations/Find_Minimum_Time_to_Reach_Last_Room_I.md) |
 
 
