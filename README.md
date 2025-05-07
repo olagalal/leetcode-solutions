@@ -23,7 +23,7 @@ This repository is not just a collection of problems but also a way for me to tr
 | 1128 | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs) | Easy       | [Python](./python/1128_Number_of_Equivalent_Domino_Pairs.py) | [📄](./explanations/1128_Number_of_Equivalent_Domino_Pairs.md) |
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation) | Easy       | [Python](./python/1920_Build_Array_from_Permutation.py) | [📄](./explanations/1920_Build_Array_from_Permutation.md) |
 | 3341 | [Find Minimum Time to Reach Last Room I](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i) | Medium       | [Python](./python/3341_Find_Minimum_Time_to_Reach_Last_Room_I.py) | [📄](./explanations/3341_Find_Minimum_Time_to_Reach_Last_Room_I.md) |
-| 3536 | [Maximum Product of Two Digits](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i) | Medium       | [Python](./python/3536_Maximum_Product_of_Two_Digits.py) | [📄](./explanations/3536_Maximum_Product_of_Two_Digits.md) |
+| 3536 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/) | Medium       | [Python](./python/3536_Maximum_Product_of_Two_Digits.py) | [📄](./explanations/3536_Maximum_Product_of_Two_Digits.md) |
 
 
 ## 🔗 Links to Solution Folders
